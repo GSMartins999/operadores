@@ -26,3 +26,17 @@ console.log("Os valores são:", !valor3) //false
 console.log("Os valores são:", !valor4) //false
 console.log("Os valores são:", !valor5) //true
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

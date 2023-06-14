@@ -1,0 +1,14 @@
+PARA DESVINCULAR O REPOSITÓRIO DO PROJETO NO VISUAL STUDIO
+USE O COMANDO ABAIXO:
+
+git remote rm origin
+
+PARA VINCULAR UM PROJETO AO REPOSITÓRIO USE OS COMANDOS:
+
+git init
+git commit -m "qualquer coisa"
+git add origin + o link do repositorio
+
+SE DER CERTO USE O COMANDO: 
+
+git push origin + nome da branch
